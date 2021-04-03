@@ -2,4 +2,4 @@
 From 2020.12.28.
 
 
-[![Kitsunetic's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsunetic)](https://github.com/anuraghazra/github-readme-stats)
+[![Kitsunetic's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsunetic&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

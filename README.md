@@ -1,2 +1,5 @@
 ![ProfileCounter](https://komarev.com/ghpvc/?username=kitsunetic&color=green)  
 From 2020.12.28.
+
+
+[![Kitsunetic's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsunetic)](https://github.com/anuraghazra/github-readme-stats)

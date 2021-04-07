@@ -6,7 +6,7 @@ Electricity and information engineering 과 computer engineering 계열을 복�
 
 |Competition Name|Platform|Subject|Date|Rank|
 |---|---|---|---|---|
-|[위성관측 데이터 활용 강수량 산출 AI 경진대회](https://dacon.io/competitions/official/235591)|Dacon|ComputerVision|20.04~20.05|72/213,33%|
+|[위성관측 데이터 활용 강수량 산출 AI 경진대회](https://dacon.io/competitions/official/235591)|Dacon|ComputerVision+Regression|20.04~20.05|72/213,33%|
 |[AI-RUSH 2020](https://campaign.naver.com/airush/)|NAVER|ComputerVision+Classification+Unlabeled+Imbalanced|20.07~20.07|37/100,37%|
 |[컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235626)|Dacon|ComputerVision+Classification|20.08~20.09|11/356,3%|
 |[공공데이터 활용 수력 댐 강우예측 AI 경진대회](https://dacon.io/competitions/official/235646)|Dacon|ComputerVision+Forecasting|20.10~20.11|39/132,29%|

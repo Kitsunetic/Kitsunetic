@@ -16,6 +16,8 @@ Electricity and information engineering 과 computer engineering 계열을 복�
 |[제 2회 컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235697)|Dacon|ComputerVision+Classification|21.01~21.03|30/216,13%|
 |[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701)|Dacon|ComputerVision+ObjectDetection+PoseEstimation|21.02~21.04|1/156,우승|
 
+---
+
 ![ProfileCounter](https://komarev.com/ghpvc/?username=kitsunetic&color=green)  
 From 2020.12.28.
 

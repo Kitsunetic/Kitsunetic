@@ -14,7 +14,7 @@ Electricity and information engineering 과 computer engineering 계열을 복�
 |[정보통신대학 ICT AI 및 알고리즘 경진대회](https://programmers.co.kr/competitions/747/2021-seoultech-cse-challenge)|Seoultech|NLP+Classification+Algorithm|21.01~21.01|1/?,우승|
 |[운동 동작 분류 AI 경진대회](https://dacon.io/competitions/official/235689)|Dacon|Timeseries+Forecasting|21.01~21.02|21/336,6%|
 |[제 2회 컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235697)|Dacon|ComputerVision+Classification|21.01~21.03|30/216,13%|
-|[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701)|Dacon|ComputerVision+ObjectDetection+PoseEstimation|21.02~21.04|1/156,우승|
+|[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701)|Dacon|ComputerVision<br>ObjectDetection+PoseEstimation|21.02~21.04|1/156,우승|
 
 ---
 

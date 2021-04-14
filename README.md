@@ -14,7 +14,7 @@ Electricity and information engineering 과 computer engineering 계열을 복�
 |[태양광 발전량 예측 AI 경진대회](https://dacon.io/competitions/official/235680)|Timeseries Forecasting|20.12~21.01|94/461, Top 20%|
 |[공공데이터 활용 수력 댐 강우예측 AI 경진대회](https://dacon.io/competitions/official/235646)|Image Forecasting|20.10~20.11|39/132, Top 29%|
 |[컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235626)|Image Classification|20.08~20.09|11/356, Top 3%|
-|[NAVER AI-RUSH 2020](https://campaign.naver.com/airush/)|Image Classification|20.07~20.07|37/100?|
+|[NAVER AI-RUSH 2020](https://campaign.naver.com/airush/)|Image Classification|20.07~20.07|37위|
 |[위성관측 데이터 활용 강수량 산출 AI 경진대회](https://dacon.io/competitions/official/235591)|Image Regression|20.04~20.05|72/213, Top 33%|
 
 <!--

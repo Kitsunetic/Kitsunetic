@@ -17,6 +17,8 @@ Electricity and information engineering 과 computer engineering 계열을 복�
 |[NAVER AI-RUSH 2020](https://campaign.naver.com/airush/)|Image Classification|20.07~20.07|37위|
 |[위성관측 데이터 활용 강수량 산출 AI 경진대회](https://dacon.io/competitions/official/235591)|Image Regression|20.04~20.05|72/213, Top 33%|
 
+* Currently interested in "[BirdCLEF 2021 - Birdcall Identification(Kaggle)](https://www.kaggle.com/c/birdclef-2021)", "[동서발전 태양광 발전량 예측 AI 경진대회(Dacon)](https://dacon.io/competitions/official/235720)"
+
 <!--
 ## Algorithms
 

@@ -7,7 +7,8 @@ Electricity and information engineering 과 computer engineering 계열을 복�
 
 |Name|Type|Date|Rank|
 |---|---|---|---|
-|[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701)| PoseEstimation|21.02~21.04|1/156,우승|
+|[로그 분석을 통한 보안 위험도 예측 AI 경진대회](https://dacon.io/competitions/official/235717)|Text Anomaly Detection|21.04~21.05|2/152,우승|
+|[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701)|PoseEstimation|21.02~21.04|1/156,우승|
 |[운동 동작 분류 AI 경진대회](https://dacon.io/competitions/official/235689)|Timeseries Classification|21.01~21.02|21/336, Top 6%|
 |[제 2회 컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235697)|Image Classification|21.01~21.03|30/216, Top 13%|
 |[정보통신대학 ICT AI 및 알고리즘 경진대회](https://programmers.co.kr/competitions/747/2021-seoultech-cse-challenge)|Text Classification|21.01~21.01|1위, 정보통신대학장상|

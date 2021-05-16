@@ -30,3 +30,8 @@ From 2020.12.28.
 -->
 
 ![](./img/stat2021-04-14.png)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitsunetic&layout=compact&bg_color=30,F9A5FF,75C8FF&title_color=E9E9E9&text_color=E9E9E9)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<!-- Why verilog is first place?? -->

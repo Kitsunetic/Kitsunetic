@@ -18,7 +18,7 @@ Electricity and information engineering 과 computer engineering 계열을 복�
 |<a href="https://campaign.naver.com/airush/" target="_blank">NAVER AI-RUSH 2020</a>|Image Classification|20.07~20.07|37위|
 |<a href="https://dacon.io/competitions/official/235591/overview/description" target="_blank">위성관측 데이터 활용 강수량 산출 AI 경진대회</a>|Image Regression|20.04~20.05|72/213, Top 33%|
 
-* Currently interested in "[BirdCLEF 2021 - Birdcall Identification(Kaggle)](https://www.kaggle.com/c/birdclef-2021)", "[동서발전 태양광 발전량 예측 AI 경진대회(Dacon)](https://dacon.io/competitions/official/235720/overview/description)"
+* Currently interested in "Clova AI-RUSH 2021"
 
 <!--
 ![ProfileCounter](https://komarev.com/ghpvc/?username=kitsunetic&color=green)  

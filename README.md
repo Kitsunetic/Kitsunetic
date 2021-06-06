@@ -7,6 +7,7 @@ Electricity and information engineering 과 computer engineering 계열을 복�
 
 |Name|Type|Date|Rank|
 |---|---|---|---|
+|**[CLOVA AI-RUSH 2021 1라운드](https://campaign.naver.com/clova_airush/)**|Image Classification|21.05~21.05|4/35, 2라운드 진출|
 |<a href="https://www.notion.so/AI-c40fcfd708ad4d66b97f6209eeb2c8e7" target="_blank"><b>로그 분석을 통한 보안 위험도 예측 AI 경진대회</b></a>|Text Anomaly Detection|21.04~21.05|2/152,우승|
 |<a href="https://www.notion.so/AI-54065ab4da62480f9ea595373c6f6454" target="_blank"><b>모션 키포인트 검출 AI 경진대회</b></a>|PoseEstimation|21.02~21.04|1/156,우승|
 |<a href="https://dacon.io/competitions/official/235689/overview/description" target="_blank">운동 동작 분류 AI 경진대회</a>|Timeseries Classification|21.01~21.02|21/336, Top 6%|

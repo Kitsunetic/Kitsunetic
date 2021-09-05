@@ -1,6 +1,8 @@
 ML/DL, 특히 computer vision을 주로 하는 학생입니다.  
 Graph, NLP, audio, multi-modal 등에도 관심이 있습니다.
 
+취미로 인공지능 대회 (dacon, kaggle, driven-data, e.t.c.) 참가합니다.
+
 ## AI Competitions
 
 |Name|Type|Date|Rank|

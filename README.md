@@ -1,7 +1,5 @@
-ML/DL, 특히 computer vision에 관심이 있는 학생입니다.  
-Attention, NLP 등에도 관심이 있습니다.
-
-Electricity and information engineering 과 computer engineering 계열을 복수전공하고 있습니다.
+ML/DL, 특히 computer vision을 주로 하는 학생입니다.
+Graph, NLP, audio, multi-modal 등에도 관심이 있습니다.
 
 ## AI Competitions
 

@@ -7,19 +7,20 @@ Graph, NLP, audio, multi-modal 등에도 관심이 있습니다.
 
 |Name|Type|Date|Rank|
 |---|---|---|---|
-|**[뉴스 토픽 분류 AI 경진대회](https://dacon.io/competitions/official/235747/codeshare/3072?page=1&dtype=recent)**|NLP|21.06~21.08|3/256, 우승|
-|**[CLOVA AI-RUSH 2021 2라운드](https://campaign.naver.com/clova_airush/)**|NLP|21.05~21.05|6/13|
-|**[CLOVA AI-RUSH 2021 1라운드](https://campaign.naver.com/clova_airush/)**|비전|21.05~21.05|4/35, 2라운드 진출|
-|<a href="https://www.notion.so/AI-c40fcfd708ad4d66b97f6209eeb2c8e7" target="_blank"><b>로그 분석을 통한 보안 위험도 예측 AI 경진대회</b></a>|NLP|21.04~21.05|2/152,우승|
-|<a href="https://www.notion.so/AI-54065ab4da62480f9ea595373c6f6454" target="_blank"><b>모션 키포인트 검출 AI 경진대회</b></a>|비전|21.02~21.04|1/156,우승|
-|<a href="https://dacon.io/competitions/official/235689/overview/description" target="_blank">운동 동작 분류 AI 경진대회</a>|시계열|21.01~21.02|21/336, Top 6%|
-|<a href="https://dacon.io/competitions/official/235697/overview/description" target="_blank">제 2회 컴퓨터 비전 학습 경진대회</a>|비전|21.01~21.03|30/216, Top 13%|
-|<a href="https://programmers.co.kr/competitions/747/2021-seoultech-cse-challenge" target="_blank"><b>정보통신대학 ICT AI 및 알고리즘 경진대회</b></a>|NLP|21.01~21.01|1위, 정보통신대학장상|
-|<a href="https://dacon.io/competitions/official/235680/overview/description" target="_blank">태양광 발전량 예측 AI 경진대회</a>|시계열|20.12~21.01|94/461, Top 20%|
-|<a href="https://dacon.io/competitions/official/235646/overview/description" target="_blank">공공데이터 활용 수력 댐 강우예측 AI 경진대회</a>|비전|20.10~20.11|39/132, Top 29%|
-|<a href="https://dacon.io/competitions/official/235626/overview/description" target="_blank"><b>컴퓨터 비전 학습 경진대회</b></a>|비전|20.08~20.09|11/356, Top 3%|
-|<a href="https://campaign.naver.com/airush/" target="_blank">NAVER AI-RUSH 2020</a>|비전|20.07~20.07|37위|
-|<a href="https://dacon.io/competitions/official/235591/overview/description" target="_blank">위성관측 데이터 활용 강수량 산출 AI 경진대회</a>|비전|20.04~20.05|72/213, Top 33%|
+|**[Ego-Vision Hand Gesture Recognition AI Contest(DACON)](https://github.com/Kitsunetic/dacon-hand-gesture-public.git)**|ComputerVision|Oct.2021|3/290, Win|
+|**[뉴스 토픽 분류 AI 경진대회](https://dacon.io/competitions/official/235747/codeshare/3072)**|NLP|Jun.2021|3/256, Win|
+|**[CLOVA AI-RUSH 2021 Round2 (NAVER CLOVA)](https://campaign.naver.com/clova_airush/)**|NLP|May.2021|6/13|
+|**[CLOVA AI-RUSH 2021 Round1 (NAVER CLOVA)](https://campaign.naver.com/clova_airush/)**|ComputerVision|Apr.2021|4/35|
+|**[로그 분석을 통한 보안 위험도 예측 AI 경진대회 (DACON)](https://www.notion.so/AI-c40fcfd708ad4d66b97f6209eeb2c8e7)**|NLP|Apr.2021|2/152,Win|
+|**[모션 키포인트 검출 AI 경진대회](https://www.notion.so/AI-54065ab4da62480f9ea595373c6f6454)**|ComputerVision|Feb.2021|1/156,Win|
+|<a href="https://dacon.io/competitions/official/235689/overview/description" target="_blank">운동 동작 분류 AI 경진대회</a>|TimeSeries|Jan.2021|21/336,Top 6%|
+|<a href="https://dacon.io/competitions/official/235697/overview/description" target="_blank">제 2회 컴퓨터 비전 학습 경진대회</a>|ComputerVision|Feb.2021|30/216,Top13%|
+|<a href="https://programmers.co.kr/competitions/747/2021-seoultech-cse-challenge" target="_blank"><b>정보통신대학 ICT AI 및 알고리즘 경진대회</b></a>|NLP|Jan.2021|1st,Win|
+|<a href="https://dacon.io/competitions/official/235680/overview/description" target="_blank">태양광 발전량 예측 AI 경진대회</a>|TimeSeries|Sep.2020|94/461,Top20%|
+|<a href="https://dacon.io/competitions/official/235646/overview/description" target="_blank">공공데이터 활용 수력 댐 강우예측 AI 경진대회</a>|ComputerVision|Oct.2020|39/132,Top29%|
+|<a href="https://dacon.io/competitions/official/235626/overview/description" target="_blank"><b>컴퓨터 비전 학습 경진대회</b></a>|ComputerVision|Aug.2021|11/356,Top 3%|
+|<a href="https://campaign.naver.com/airush/" target="_blank">NAVER AI-RUSH 2020</a>|ComputerVision|Jul.2021|37th|
+|<a href="https://dacon.io/competitions/official/235591/overview/description" target="_blank">위성관측 데이터 활용 강수량 산출 AI 경진대회</a>|ComputerVision|May.2021|72/213,Top 33%|
 
 <!--
 ![ProfileCounter](https://komarev.com/ghpvc/?username=kitsunetic&color=green)  

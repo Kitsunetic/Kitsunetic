@@ -7,8 +7,8 @@ Graph, NLP, audio, multi-modal 등에도 관심이 있습니다.
 
 |Name|Type|Date|Rank|
 |---|---|---|---|
-|**[Ego-Vision Hand Gesture Recognition AI Contest(DACON)](https://github.com/Kitsunetic/dacon-hand-gesture-public.git)**|ComputerVision|Oct.2021|3/290, Win|
-|**[뉴스 토픽 분류 AI 경진대회](https://dacon.io/competitions/official/235747/codeshare/3072)**|NLP|Jun.2021|3/256, Win|
+|**[Ego-Vision Hand Gesture Recognition AI Contest (DACON)](https://github.com/Kitsunetic/dacon-hand-gesture-public.git)**|ComputerVision|Oct.2021|3/290, Win|
+|**[뉴스 토픽 분류 AI 경진대회 (DACON)](https://dacon.io/competitions/official/235747/codeshare/3072)**|NLP|Jun.2021|3/256, Win|
 |**[CLOVA AI-RUSH 2021 Round2 (NAVER CLOVA)](https://campaign.naver.com/clova_airush/)**|NLP|May.2021|6/13|
 |**[CLOVA AI-RUSH 2021 Round1 (NAVER CLOVA)](https://campaign.naver.com/clova_airush/)**|ComputerVision|Apr.2021|4/35|
 |**[로그 분석을 통한 보안 위험도 예측 AI 경진대회 (DACON)](https://www.notion.so/AI-c40fcfd708ad4d66b97f6209eeb2c8e7)**|NLP|Apr.2021|2/152,Win|

@@ -18,9 +18,9 @@ Graph, NLP, audio, multi-modal 등에도 관심이 있습니다.
 |<a href="https://programmers.co.kr/competitions/747/2021-seoultech-cse-challenge" target="_blank"><b>정보통신대학 ICT AI 및 알고리즘 경진대회 (SNUT)</b></a>|NLP|Jan.2021|1st,Win|
 |<a href="https://dacon.io/competitions/official/235680/overview/description" target="_blank">태양광 발전량 예측 AI 경진대회 (DACON)</a>|TimeSeries|Sep.2020|94/461,Top20%|
 |<a href="https://dacon.io/competitions/official/235646/overview/description" target="_blank">공공데이터 활용 수력 댐 강우예측 AI 경진대회 (DACON)</a>|ComputerVision|Oct.2020|39/132,Top29%|
-|<a href="https://dacon.io/competitions/official/235626/overview/description" target="_blank"><b>컴퓨터 비전 학습 경진대회 (DACON)</b></a>|ComputerVision|Aug.2021|11/356,Top 3%|
-|<a href="https://campaign.naver.com/airush/" target="_blank">NAVER AI-RUSH 2020 (NAVER CLOVA)</a>|ComputerVision|Jul.2021|37th|
-|<a href="https://dacon.io/competitions/official/235591/overview/description" target="_blank">위성관측 데이터 활용 강수량 산출 AI 경진대회 (DACON)</a>|ComputerVision|May.2021|72/213,Top 33%|
+|<a href="https://dacon.io/competitions/official/235626/overview/description" target="_blank"><b>컴퓨터 비전 학습 경진대회 (DACON)</b></a>|ComputerVision|Aug.2020|11/356,Top 3%|
+|<a href="https://campaign.naver.com/airush/" target="_blank">NAVER AI-RUSH 2020 (NAVER CLOVA)</a>|ComputerVision|Jul.2020|37th|
+|<a href="https://dacon.io/competitions/official/235591/overview/description" target="_blank">위성관측 데이터 활용 강수량 산출 AI 경진대회 (DACON)</a>|ComputerVision|May.2020|72/213,Top 33%|
 
 <!--
 ![ProfileCounter](https://komarev.com/ghpvc/?username=kitsunetic&color=green)  

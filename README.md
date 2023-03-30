@@ -1,3 +1,6 @@
+I'm a AI engineer (or researcher) who loves coding.
+I started learning C at age 9, 
+
 
 # Publications
 

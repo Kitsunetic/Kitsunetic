@@ -1,5 +1,7 @@
 I'm a Master's student in UNIST AI graduate school, South Korea.
 
+My profile image is generated from [Stable Diffusion](https://github.com/CompVis/stable-diffusion).
+
 
 
 ## Publications

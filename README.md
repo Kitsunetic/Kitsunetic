@@ -1,21 +1,20 @@
 I'm a Master's student in UNIST AI graduate school, South Korea.
 
 
-# Publications
+
+## Publications
 
 - **[Diffusion-Based Signed Distance Fields for 3D Shape Generation](https://kitsunetic.github.io/sdf-diffusion/)**, CVPR 2023
 
 
 
-# AI Challenges
+## AI Challenges
 
-I have a keen interest in utilizing AI for practical applications. My goal is to work with all types of data and tackle various AI challenges. Over time, I have participated in and won several AI competitions, including those related to NLP, computer vision, time-series analysis, and anomaly detection.
-
-Totally top 4th place (highest, current 25th place) from 77,242 players of DACON (a Korean community similar to Kaggle).
+Totally top 4th place (highest, 25th place currently) from 77,242 players of DACON (a Korean community similar to Kaggle).
 
 
 - **[OCR Challenge](https://dacon.io/competitions/official/236042/overview/description)**
-    , from KYOWON Group with DACON, 2022.12, 7th place win from 430 players (top 2%).
+    , from KYOWON Group and DACON, 2022.12, 7th place win from 430 players (top 2%).
     OCR task of Korean language.
     I improved accuracy with transfer learning of ConvNeXT by proposing language specific loss.
 

@@ -1,5 +1,4 @@
-I'm a AI engineer (or researcher) who loves coding.
-I started learning C at age 9, 
+I'm a Master's student in UNIST AI graduate school, South Korea.
 
 
 # Publications
@@ -12,7 +11,7 @@ I started learning C at age 9,
 
 I have a keen interest in utilizing AI for practical applications. My goal is to work with all types of data and tackle various AI challenges. Over time, I have participated in and won several AI competitions, including those related to NLP, computer vision, time-series analysis, and anomaly detection.
 
-Top 4th place (highest, current 25th place) from 77,242 players of DACON (similar community as Kaggle in Korea).
+Totally top 4th place (highest, current 25th place) from 77,242 players of DACON (a Korean community similar to Kaggle).
 
 
 - **[OCR Challenge](https://dacon.io/competitions/official/236042/overview/description)**

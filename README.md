@@ -3,8 +3,7 @@ I'm a Master's student in UNIST AI graduate school, South Korea.
 My profile image is generated from [Stable Diffusion](https://github.com/CompVis/stable-diffusion).
 
 
-- Skilled tools: Python, PyTorch, Linux, Docker, Web-scraping (bs4, Selenium)
-- Slightly skilled tools: C, C++
+- Skilled tools: Python, PyTorch, Linux, Docker, C, C++, Web-scraping (bs4, Selenium)
 - Noob, but can use: CUDA, Tensorflow
 - Tools that I have used, but not now: Windows (Visual Basic, C#), MATLAB, Web (node.js, MongoDB, Bootstrap4, SQL), Android (Java)
 - Tools that I want to learn: Unity, Unreal, Jax, Go-lang

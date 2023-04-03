@@ -21,7 +21,7 @@ My profile image is generated from [Stable Diffusion](https://github.com/CompVis
 Totally top 4th place (highest, 25th place currently) from 77,242 players of DACON (a Korean community similar to Kaggle).
 
 
-- **[OCR Challenge](https://dacon.io/competitions/official/236042/overview/description)**
+- **[2023 Kyowon Group AI OCR Challenge](https://dacon.io/competitions/official/236042/overview/description)**
     , from KYOWON Group and DACON, 2022.12, 7th place win from 430 players (top 2%).
     OCR task of Korean language.
     I improved accuracy with transfer learning of ConvNeXT by proposing language specific loss.
@@ -56,7 +56,7 @@ Totally top 4th place (highest, 25th place currently) from 77,242 players of DAC
     Classification of given image dataset with limited model capacity.
     I achieved high-accuracy with transfer learning of EfficientNetV2 with careful hyper-parameter tuning.
 
-- **[Predicting Danger of System Log Messages](https://www.notion.so/AI-c40fcfd708ad4d66b97f6209eeb2c8e7)**
+- **[Predicting Security Risks through Log Analysis](https://www.notion.so/AI-c40fcfd708ad4d66b97f6209eeb2c8e7)**
     , from DACON, 2021.04, 2nd place win from 152 players (top 1%).
     Finding out-of-distribution data not appeared in training dataset.
     I achieved high-accuracy with DistilBeRT-based anomaly detection.

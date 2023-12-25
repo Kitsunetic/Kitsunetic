@@ -37,7 +37,7 @@ I reached total 4th place (highest, 25th place currently) from 77,242 players of
     I improved accuracy through transfer learning of EfficientNetV2 with various augmentations.
 
 - **[Ego-Vision Hand Gesture Recognition AI Contest](https://github.com/Kitsunetic/dacon-hand-gesture-public.git)**
-    , from DACON, 2021.06, 3rd place win from 290 players (top 1%).
+    , from DACON, 2021.10, 3rd place win from 290 players (top 1%).
     Classifies hand gesture from given images.
     I achieved high-accuracy with transfer learning of EfficientNetV2 with cross validation.
 

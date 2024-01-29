@@ -9,9 +9,8 @@ I'm a Master's student in UNIST AI graduate school, South Korea.
 
 ## Publications
 
-- A paper is accepted in AAAI 2024.
-- **[Diffusion-Based Signed Distance Fields for 3D Shape Generation](https://kitsunetic.github.io/sdf-diffusion/)**, CVPR 2023.
-
+- **[ContactGen: Contact-Guided Interactive 3D Human Generation for Partners](https://dongjunku.github.io/contactgen), AAAI 2024.
+- **[Diffusion-Based Signed Distance Fields for 3D Shape Generation](https://kitsunetic.github.io/sdf-diffusion)**, CVPR 2023.
 
 
 ## AI Challenges

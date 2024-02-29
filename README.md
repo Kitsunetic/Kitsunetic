@@ -91,4 +91,4 @@ I reached total 4th place (highest, 25th place currently) from 77,242 players of
 - **[위성관측 데이터 활용 강수량 산출 AI 경진대회](https://dacon.io/competitions/official/235591/overview/description)**
     , from DACON, 2020.05, 72th place from 213 players (top 33%).
 
-- From 2020.04, started learning AI.
+<!-- - From 2020.04, started learning AI. -->

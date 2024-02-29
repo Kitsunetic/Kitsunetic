@@ -9,8 +9,9 @@ I'm a Master's student in UNIST AI graduate school, South Korea.
 
 ## Publications
 
+- **[DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction](https://kitsunetic.github.io/ditto)**, CVPR 2024.
 - **[ContactGen: Contact-Guided Interactive 3D Human Generation for Partners](https://dongjunku.github.io/contactgen)**, AAAI 2024.
-- **[Diffusion-Based Signed Distance Fields for 3D Shape Generation](https://kitsunetic.github.io/sdf-diffusion)**, CVPR 2023.
+- **[SDF-Diffusion: Diffusion-Based Signed Distance Fields for 3D Shape Generation](https://kitsunetic.github.io/sdf-diffusion)**, CVPR 2023.
 
 
 ## AI Challenges

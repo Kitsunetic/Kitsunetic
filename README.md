@@ -1,12 +1,3 @@
-I'm a Master's student in UNIST AI graduate school, South Korea.
-
-- Skilled tools: Python, PyTorch, Linux, Docker, C, C++, Web-scraping (bs4, Selenium)
-- Tools that I may use: CUDA, Tensorflow
-- Tools that I have used, but not now: Windows (Visual Basic, C#), MATLAB, Web (node.js, MongoDB, Bootstrap4, SQL), Android (Java)
-- Tools that I want to learn: Unity, Unreal, Jax, Go-lang
-
-
-
 ## Publications
 
 - **[DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction](https://kitsunetic.github.io/ditto)**, CVPR 2024.

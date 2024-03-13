@@ -1,8 +1,17 @@
+I'm a passionate AI researcher/engineer with an interest in computer vision, focusing on 3D computer vision, neural rendering, and generative models.
+
+I believe multi-modal AI, mirroring human thought processes, will be fundamental in the future.
+Guided by this vision, I have worked with diverse data types, including LLM, audio, and time-series processing.
+
+- Technical stack: Python and C/C++, and I have minor experiences in CUDA programming, C#, and Node.js.
+- Languages: Korean (native), Python (proficient), English (fluent), and Japanese (N3+ level).
+
+
 ## Publications
 
-- **[DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction](https://vision3d-lab.github.io/ditto)**, CVPR 2024
-- **[ContactGen: Contact-Guided Interactive 3D Human Generation for Partners](https://dongjunku.github.io/contactgen)**, AAAI 2024
-- **[SDF-Diffusion: Diffusion-Based Signed Distance Fields for 3D Shape Generation](https://kitsunetic.github.io/sdf-diffusion)**, CVPR 2023
+- **[DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction](https://vision3d-lab.github.io/ditto)**, CVPR 2024 (first author)
+- **[ContactGen: Contact-Guided Interactive 3D Human Generation for Partners](https://dongjunku.github.io/contactgen)**, AAAI 2024 (second author)
+- **[SDF-Diffusion: Diffusion-Based Signed Distance Fields for 3D Shape Generation](https://kitsunetic.github.io/sdf-diffusion)**, CVPR 2023 (first author)
 
 
 ## AI Challenges
@@ -11,7 +20,9 @@ I'm enjoying utilizing AI for real-world applications through AI challenges.
 
 I reached total 4th place (highest, 25th place currently) from 77,242 players of DACON (a Korean community similar to Kaggle).
 
+Please refer my [homepage](https://kitsunetic.github.io) for more details.
 
+<!--
 - **[2023 Kyowon Group AI OCR Challenge](https://dacon.io/competitions/official/236042/overview/description)**
     , from KYOWON Group and DACON, 2022.12, 7th place win from 430 players (top 2%).
     OCR task of Korean language.
@@ -81,5 +92,5 @@ I reached total 4th place (highest, 25th place currently) from 77,242 players of
 
 - **[위성관측 데이터 활용 강수량 산출 AI 경진대회](https://dacon.io/competitions/official/235591/overview/description)**
     , from DACON, 2020.05, 72th place from 213 players (top 33%).
-
+-->
 <!-- - From 2020.04, started learning AI. -->

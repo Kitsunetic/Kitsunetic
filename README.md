@@ -7,6 +7,7 @@ Guided by this vision, I have worked with diverse data types, including LLM, aud
 - Languages: Korean (native), Python (proficient), English (fluent), and Japanese (N3+ level).
 
 
+
 ## Publications
 
 - **[DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction](https://vision3d-lab.github.io/ditto)**, CVPR 2024 (first author)

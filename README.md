@@ -19,7 +19,7 @@ Guided by this vision, I have worked with diverse data types, including LLM, aud
 
 I'm enjoying utilizing AI for real-world applications through AI challenges.
 
-I reached total 4th place (highest, 25th place currently) from 77,242 players of DACON (a Korean community similar to Kaggle).
+I reached total 4th place (highest record) from 77,242 players of DACON (a Korean community similar to Kaggle).
 
 Please refer my [homepage](https://kitsunetic.github.io) for more details.
 

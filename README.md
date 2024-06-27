@@ -1,11 +1,9 @@
-I'm a passionate AI researcher/engineer with an interest in computer vision, focusing on 3D computer vision, neural rendering, and generative models.
+As enthusiastic AI research student, I enjoy developing code that brings ideas to life, enhancing performance and efficiency.
 
-I believe multi-modal AI, mirroring human thought processes, will be fundamental in the future.
-Guided by this vision, I have worked with diverse data types, including LLM, audio, and time-series processing.
+I specialize in deep learning, with a particular focus on computer vision tasks.
+Recently, I have developed interests in Gaussian Splatting, 3D generative models, and multi-modal learning.
 
-- Technical stack: Python and C/C++, and I have minor experiences in CUDA programming, C#, and Node.js.
-- Languages: Korean (native), Python (proficient), English (fluent), and Japanese (N3+ level).
-
+I am proficient in Python and PyTorch, and have solid understanding of Linux systems, Docker, CUDA, and Triton.
 
 
 ## Publications
